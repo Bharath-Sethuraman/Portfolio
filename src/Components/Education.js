@@ -13,7 +13,7 @@ export default function Education() {
     }
 
 
-    return <section className='flex flex-col md:flex-row px-5 py-32 bg-white justify-center'>
+    return <section className='flex flex-col md:flex-row px-5 py-32 bg-blue-200 justify-center'>
         <div className='md:w-1/2 flex flex-col'>
             <h1 className=' text-black text-4xl'><span className='border-b-4 border-primary font-bold'>Education</span>
                 <div>

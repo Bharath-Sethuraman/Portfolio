@@ -1,12 +1,12 @@
 import CertificateImg from '../assets/certification.jpeg'
 export default function Certifications() {
-    return <section className='flex flex-col md:flex-row bg-white px-5'>
+    return <section className='flex flex-col md:flex-row bg-blue-200 px-5 border-b-8 border-secondary'>
         <div className='py-5 px-14 md:w-1/2'>
             <img src={CertificateImg} alt='certificate'/>
         </div>
         <div className='md:w-1/2 flex justify-center'>
             <div className='flex flex-col justify-center text-black'>
-                <h1 className='text-4xl border-b-4 border-primary mb-5 w-[250px] font-bold'>Certifications</h1>
+                <h1 className='text-4xl border-b-4 border-primary mb-5 w-[250px] font-bold '>Certifications</h1>
                 <div>
                     <p className='text-2xl font-bold'>Web Development Course: </p>
                     <hr className="border-t-2 border-blue-300 my-4" />
