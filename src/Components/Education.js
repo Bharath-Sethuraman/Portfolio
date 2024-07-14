@@ -8,8 +8,8 @@ export default function Education() {
             facebook: 'https://facebook.com/jvlcode',
             linkedin: 'https://in.linkedin.com/company/jvl-code'
         },
-        bsc: 'Graduated with 76% in B.Sc. Computer Science from Yadava College, Madurai, India.',
-        msc: 'Currently pursuing M.Sc. Computer Science with a GPA of 74.7% from Yadava College, Madurai, India.'
+        bsc: 'Graduated with 76.4% in B.Sc. Computer Science from Yadava College, Madurai, India.',
+        msc: 'Graduated with 77.4% in M.Sc. Computer Science from Yadava College, Madurai, India.'
     }
 
 
